@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @phatnael
-- 👀 I’m interested in Back-end development and scripts
-- 🌱 I’m currently learning Python and Nim-lang
+- 👀 I’m interested in Back-end development, scripts and embedded systems
+- 🌱 I’m currently learning Python, Nim-lang and electronics
 - 💞️ I’m looking to collaborate on Webapps
 - 📫 How to reach me @phatnael on Twitter & Telegram
 
